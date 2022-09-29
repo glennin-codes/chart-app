@@ -1,8 +1,11 @@
 .page-column {
     max-width: 600px;
     margin: 30px auto;
+    background-color: grey;
 }
-
+body{
+    background-color:#327f;
+}
 h1 {
     text-align: center;
     color: #26a69a;
