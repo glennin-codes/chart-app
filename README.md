@@ -1,11 +1,11 @@
 ## LONG POLLING CHAT CLIENT
 
-#### git clone https://github.com/amschel99/polling.git
+#### ```git clone https://github.com/amschel99/polling.git```
 
-#### cd polling
+#### ```cd polling```
 
-#### npm install
+#### ```npm install```
 
-#### npm start
+#### ```npm start```
 
 Your chat client will be displayed on ```port 3000```
